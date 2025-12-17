@@ -1,4 +1,6 @@
 # Land-use-classification-Miami
+You can either use the .ipynb file where all the python code is combined together. or, run the python files in the following sequence:
+
 run the scripts in this sequence:
 start with get_aerial_photo.py
 then, geo_ref_aerial_image.py
